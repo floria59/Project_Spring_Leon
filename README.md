@@ -5,8 +5,8 @@
 <div align="center">
 <h4> Leon 메인페이지 </h4>
 
-![leonmain](https://user-images.githubusercontent.com/109928969/221420684-2be07664-5da8-466e-baf3-c2e1a129d205.png)
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/109928969/221394838-310a281f-5b5d-4718-9253-25bd72184c12.gif)
+![main_leon](https://user-images.githubusercontent.com/109928969/221420807-297d044c-528a-47a8-9ee2-e72ff05eb592.png)
 
 
 </div>
