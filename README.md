@@ -6,6 +6,8 @@
 <h4> Leon 메인페이지 </h4>
 
 ![KakaoTalk_20230226_004445627](https://user-images.githubusercontent.com/109928969/221394024-08a03f74-b950-44a6-a936-5289cf1c3146.png)
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/109928969/221394838-310a281f-5b5d-4718-9253-25bd72184c12.gif)
+
 
 </div>
 
