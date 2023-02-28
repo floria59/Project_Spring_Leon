@@ -24,3 +24,7 @@
 <li>DB : Oracle 11g </li>
 <li>서버 : Apache Tomcat 9.0</li>
 <br>
+
+<h2>프로젝트 상세보기</h2>
+![깃허브용_1](https://user-images.githubusercontent.com/109928969/221924499-13812afe-929c-40b4-b41a-ec5c8cfd6c29.jpg)
+
