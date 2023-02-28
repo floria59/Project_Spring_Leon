@@ -2,15 +2,6 @@
 
 <br><br>
 
-<div align="center">
-<h4> Leon 메인페이지 </h4>
-
-<img src = "https://user-images.githubusercontent.com/109928969/221394838-310a281f-5b5d-4718-9253-25bd72184c12.gif"
-style="display: block; margin: 0 auto; width:1000px; height:450px;"> 
-  
-
-
-</div>
 
 <br>
 <h2>프로젝트 개요</h2>
