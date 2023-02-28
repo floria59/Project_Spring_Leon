@@ -26,18 +26,21 @@
 <br>
 
 <h2>프로젝트 상세보기</h2>
-![1](https://user-images.githubusercontent.com/109928969/221925135-9dc96f87-0487-4fb9-bf01-73c489786ea3.jpg)
-![2](https://user-images.githubusercontent.com/109928969/221925563-393fdb54-6b57-4a09-9abc-bb5118c98d49.jpg)
-![3](https://user-images.githubusercontent.com/109928969/221925577-23946514-db3d-4a10-950b-66e8f514fef9.jpg)
-![4](https://user-images.githubusercontent.com/109928969/221925586-def651c0-2ba6-4b83-b230-0f0506732688.jpg)
-![5](https://user-images.githubusercontent.com/109928969/221925600-55318192-9661-4f60-ae21-412b90b591fd.jpg)
-![6](https://user-images.githubusercontent.com/109928969/221925612-9f9ba915-5ea4-4fb7-9a2e-0951504d4566.jpg)
-![7](https://user-images.githubusercontent.com/109928969/221925615-ed55af89-7d8f-4dda-8722-9773bbd14ee0.jpg)
-![8](https://user-images.githubusercontent.com/109928969/221925618-ad2ebd73-6178-4d42-9153-dd7b249960eb.jpg)
-![9](https://user-images.githubusercontent.com/109928969/221925624-7ecce40d-a17a-4b1c-9a65-6a99611c7fe4.jpg)
-![10](https://user-images.githubusercontent.com/109928969/221925627-fce00dc2-f031-410c-8639-c4122848e774.jpg)
-![11](https://user-images.githubusercontent.com/109928969/221925630-f5507302-a562-47f3-acac-dbb200eb4056.jpg)
-![12](https://user-images.githubusercontent.com/109928969/221925632-522a0c41-b5b0-4d4d-aa18-01ebba95fcc6.jpg)
-![13](https://user-images.githubusercontent.com/109928969/221925636-a7263801-d58a-4324-ad8b-302ffe94ecbe.jpg)
-![14](https://user-images.githubusercontent.com/109928969/221925638-6248e62f-d034-4aa4-8aff-92ade2ee49f3.jpg)
-![15](https://user-images.githubusercontent.com/109928969/221925642-57e80e27-a32c-472f-b735-d01495e7d178.jpg)
+
+<img src = https://user-images.githubusercontent.com/109928969/221925135-9dc96f87-0487-4fb9-bf01-73c489786ea3.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925563-393fdb54-6b57-4a09-9abc-bb5118c98d49.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925577-23946514-db3d-4a10-950b-66e8f514fef9.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925586-def651c0-2ba6-4b83-b230-0f0506732688.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925600-55318192-9661-4f60-ae21-412b90b591fd.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925612-9f9ba915-5ea4-4fb7-9a2e-0951504d4566.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925615-ed55af89-7d8f-4dda-8722-9773bbd14ee0.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925618-ad2ebd73-6178-4d42-9153-dd7b249960eb.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925624-7ecce40d-a17a-4b1c-9a65-6a99611c7fe4.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925627-fce00dc2-f031-410c-8639-c4122848e774.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925630-f5507302-a562-47f3-acac-dbb200eb4056.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925632-522a0c41-b5b0-4d4d-aa18-01ebba95fcc6.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925636-a7263801-d58a-4324-ad8b-302ffe94ecbe.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925638-6248e62f-d034-4aa4-8aff-92ade2ee49f3.jpg>
+<img src = https://user-images.githubusercontent.com/109928969/221925642-57e80e27-a32c-472f-b735-d01495e7d178.jpg>
+
+
