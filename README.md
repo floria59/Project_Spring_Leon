@@ -1,8 +1,5 @@
 # Project_Spring_Leon
 
-<br><br>
-
-
 <br>
 <h2>프로젝트 개요</h2>
 <li>프로젝트명 : Spring 프로젝트 _ 웹 쇼핑몰</li>
