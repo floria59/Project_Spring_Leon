@@ -66,7 +66,7 @@
               </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="/admin/chart/cartProductPrice">전체주문통계차트</a></li>
+            <li><a href="/admin/chart/cartProductPrice">카트통계차트</a></li>
           </ul>
         </li>
       </ul>
