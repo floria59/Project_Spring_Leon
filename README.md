@@ -21,6 +21,6 @@
 
 <h2>개발 환경</h2>
 <li>언어 : Java[1.8] / javascript / jQuery / bootstrap[4.6] / HTML/CSS</li>
-<li>DB : Oracle 11g Enterprise</li>
+<li>DB : Oracle 11g </li>
 <li>서버 : Apache Tomcat 9.0</li>
 <br>
